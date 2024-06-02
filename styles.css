@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+button{border:none;background-color:#3498DB;border-radius:10px;color:white  }
+#img{height:230px}
+main{background-color:#F9EBEA;
+	margin-left:50%;
+	 margin-right:50%;
+	 transform:(-50%, -50%);
+	 width:400px;height:400px
+	}
