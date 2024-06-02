@@ -1,9 +1,16 @@
 /*  your css code here. If applicable */
-button{border:none;background-color:#3498DB;border-radius:10px;color:white  }
-#img{height:230px}
-main{background-color:#F9EBEA;
-	margin-left:50%;
-	 margin-right:50%;
-	 transform:(-50%, -50%);
-	 width:400px;height:400px
+#center{text-align:center}
+body {width:300px;
+    margin:auto;
+	  border-radius:10px;
+
+}
+#img{display:block;margin-left:auto;margin-right:auto;}
+h1{text-align:center;color:#3498DB}
+p{text-align:center;font-weight:bold}
+button{font-size:18px;padding:15px;border:none;background-color:#3498DB;border-radius:10px;color:white  }
+#img{height:230px;width : 4;
+	border-radius : 10px;}
+main{ box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;;background-color:#F9EBEA;
+
 	}
